@@ -59,10 +59,3 @@ Measured across my repositories:
 - **Automation**: Discord bots, deployment pipelines, agent-driven development workflows
 
 
----
-
-## Yedekler
-
-- [dersportali](https://github.com/Shiroo09/dersportali)
-- [dex](https://github.com/Shiroo09/dex)
-- [dexvds](https://github.com/Shiroo09/dexvds)
